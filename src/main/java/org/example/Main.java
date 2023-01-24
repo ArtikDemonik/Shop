@@ -2,7 +2,6 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println("хоч спать");
+        System.out.printf("my stress level is %d", ArtikDemonik.get_stressed());
     }
 }
